@@ -29,7 +29,7 @@ const SecHeader = ({Logo , dropdownItem , MenuInfo}) => {
                 </li>
               ))}
               <li className="lh-55px">
-                <a  href="https://app.tips.digital" target="_self" className="btn login-btn ml-50">
+                <a  href="https://app.livefreedom.org" target="_self" className="btn login-btn ml-50">
                   App
                 </a>
               </li>

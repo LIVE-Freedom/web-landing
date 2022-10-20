@@ -34,7 +34,7 @@ const SecHeroSection = ({
                 <p className="w-text fadeInUp" data-wow-delay="0.3s">Nuestro software está diseñado para hacer trading de forma automática en FOREX, que es la conversión de una divisa a otra. Todo nuestro sistema se encuentra desarrollado sobre Blockchain.</p>
                 <div className="dream-btn-group fadeInUp" data-wow-delay="0.4s" style={{display:'flex', justifyContent:'center'}}>
                   {/* <a href="#" className="btn more-btn mr-3">{link1}</a> */}
-                  <a href="https://app.tips.digital" target="_self" className="btn more-btn-app">{link2}</a>
+                  <a href="https://app.livefreedom.org" target="_self" className="btn more-btn-app">{link2}</a>
                 </div>
               </div>
             </div>

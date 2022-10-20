@@ -61,7 +61,7 @@ const HomeDemo6Container = () => {
 
     return (
       <div style={{scrollBehavior:'smooth'}}>
-        <Header Title="TIPS | Trust In People" />
+        <Header Title="LIVE Freedom" />
         <SecHeroSection
           ClassSec="hero-section moving section-padding"
           ClassDiv="col-12 col-lg-6 col-md-12"
